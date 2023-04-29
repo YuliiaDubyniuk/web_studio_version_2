@@ -397,10 +397,11 @@ img {
 
 .agreement-icon {
   position: absolute;
-  top: 0;
-  left: 0;
+  top: 50%;
+  left: 3px;
 
   opacity: 0; 
+  transform: translateY(-50%);
   transition: opacity var(--animation) 250ms;
 }
 
