@@ -279,12 +279,16 @@ img {
 }
 
  .modal-btn {
-  display: block;  
-  margin-left: auto;
-  margin-bottom: 24px;
+  position: absolute;
+  top: 24px;
+  right: 24px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 24px;
   height: 24px;
-
+  
   color: var(--navy-blue);
   background-color: var(--cornflower);
   border-radius: 50%;
@@ -306,6 +310,7 @@ img {
  }
 
  .modal-info {
+  margin-top: 48px;
   margin-bottom: 16px;
   text-align: center;
  }
