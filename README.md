@@ -12,7 +12,7 @@ A refined static web page showcasing polished HTML and CSS techniques, with impr
 ### Installation & Preview
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YuliiaDubyniuk/web_studio_version_2.git
+   git clone https://github.com/YuliiaDubyniuk/web_studio_v2.git
 ## Project structure
 ```
 /css/            — Stylesheets for layout improvements
