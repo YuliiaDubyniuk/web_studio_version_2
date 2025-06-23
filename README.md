@@ -1,4 +1,4 @@
-# Web Studio – Version 2 (HTML & CSS)
+# Web Studio – Version 2 (HTML & CSS & JS)
 
 A refined static web page showcasing polished HTML and CSS techniques, with improved layout and styling.
 
